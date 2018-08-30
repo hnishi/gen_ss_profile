@@ -1,0 +1,13 @@
+[hnishi@kan04 bootstrap]$ bash do2_cntss_trj.bash
+Program: do21_cntss_trj.bash
+Version: 1.0
+
+1 Only_N-Boundary 11293
+2 Only_C-Boundary 30024
+3 Both_N_and_C-Boundary 44695
+6 Glu_Helix 3819
+4 Lys_Helix 2338
+7 No_Helix 2832
+SUM 95001
+5 Spec 1887
+
